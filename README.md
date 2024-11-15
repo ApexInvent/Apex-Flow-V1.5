@@ -4,8 +4,9 @@ Welcome to the **Apex Flow V1.5 Toolhead** repository!
 This is an ongoing project, and we are in the process of uploading files section by section. 
 **Please note that this release is not yet fully complete**, and additional components and updates will be needed and added over time. 
 
-#Current progress of released files:
+# Current progress of released files:
 **main shroud assembly**
+**Vulcan HF & Orbiter mount**
 
 ## Bill of Materials (BOM) for Main Shroud Assembly
 
