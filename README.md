@@ -23,3 +23,8 @@ Please check back periodically for updates as more sections are uploaded!
 <p align="center">
   <img src="Images/Printed%20parts%20Orientation.webp" alt="Printed Part Orientation" width="500">
 </p>
+
+# Main Shroud Assembly
+<p align="center">
+  <img src="Images/Shroud%20Assembly.webp" alt="Shroud Assembly" width="500">
+</p>
