@@ -20,4 +20,6 @@ The main shroud assembly includes the following components:
 Please check back periodically for updates as more sections are uploaded!
 
 # Main Shroud Part Print Orientation
-![Printed Part Orientation](Images/Printed%20parts%20Orientation.webp)
+<p align="center">
+  <img src="Images/Printed%20parts%20Orientation.webp" alt="Printed Part Orientation" width="500">
+</p>
