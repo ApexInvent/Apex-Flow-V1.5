@@ -1,6 +1,11 @@
 # Apex Flow V1.5 Toolhead
 
-Welcome to the **Apex Flow V1.5 Toolhead** repository! This is an ongoing project, and we are in the process of uploading files section by section. Please note that this release is **not yet fully complete**, and additional components and updates will be added over time. At this stage, we are uploading the **main shroud assembly** files.
+Welcome to the **Apex Flow V1.5 Toolhead** repository! 
+This is an ongoing project, and we are in the process of uploading files section by section. 
+**Please note that this release is not yet fully complete**, and additional components and updates will be needed and added over time. 
+
+#Current progress of released files:
+**main shroud assembly**
 
 ## Bill of Materials (BOM) for Main Shroud Assembly
 
